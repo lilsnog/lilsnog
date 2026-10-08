@@ -2,7 +2,7 @@
 
 **Backend engineer in Lagos, Nigeria.** I build the APIs, payment reporting, regulatory returns and approval workflows a bank runs on, mostly in **PHP/Laravel** and **.NET Core** against **Oracle, SQL Server and MySQL**, with **React** when a project needs a front end.
 
-- 🏦 Software Engineering team at **Greenwich Merchant Bank**: Finacle core-banking integrations, NIP/RTGS reporting, FIRS/NFIU/CBN returns
+- 🏦 Software Engineering team at **Greenwich Bank Limited**: Finacle core-banking integrations, NIP/RTGS reporting, FIRS/NFIU/CBN returns
 - ⚙️ I automate business processes with **n8n** and **Power Automate** (19-workflow expense approval system across four group companies)
 - 🌍 Open to backend / full-stack roles: remote, hybrid in Lagos, or relocation
 - 🔗 [Portfolio](https://lilsnog.github.io) · [LinkedIn](https://www.linkedin.com/in/godswill-sam-nwafor-784b58109) · [chisomsamuel1@gmail.com](mailto:chisomsamuel1@gmail.com)
